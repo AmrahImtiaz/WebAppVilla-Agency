@@ -1,0 +1,5 @@
+﻿Rebuild started at 1:19 AM...
+1>------ Rebuild All started: Project: WebAppVilla, Configuration: Debug Any CPU ------
+1>  WebAppVilla -> E:\repo\WebAppVilla\bin\WebAppVilla.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+========== Rebuild completed at 1:19 AM and took 01.720 seconds ==========
